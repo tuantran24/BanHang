@@ -1,0 +1,205 @@
+{
+    "meals": [
+        {
+            "strMeal": "Gà Rán Phô Mai",
+            "strMealThumb": "image/Ga/1.png",
+            "idMeal": "1"
+        },
+        {
+            "strMeal": "Gà Rán Truyền Thống",
+            "strMealThumb": "image/Ga/2.png",
+            "idMeal": "2"
+        },
+        {
+            "strMeal": "Gà Rán Cay Nồng",
+            "strMealThumb": "image/Ga/3.png",
+            "idMeal": "3"
+        },
+        {
+            "strMeal": "Gà Rán Sốt Cay",
+            "strMealThumb": "image/Ga/4.png",
+            "idMeal": "4"
+        },
+        {
+            "strMeal": "Gà Rán Sốt BBQ",
+            "strMealThumb": "image/Ga/5.png",
+            "idMeal": "5"
+        },
+        {
+            "strMeal": "Gà Rán Mù Tạt",
+            "strMealThumb": "image/Ga/6.png",
+            "idMeal": "6"
+        },
+        {
+            "strMeal": "Tacos Tôm Xù",
+            "strMealThumb": "image/Tacos/7.png",
+            "idMeal": "7"
+        },
+        {
+            "strMeal": "Tacos Gà",
+            "strMealThumb": "image/Tacos/8.png",
+            "idMeal": "8"
+        },
+        {
+            "strMeal": "Tacos Full Topping",
+            "strMealThumb": "image/Tacos/9.png",
+            "idMeal": "9"
+        },
+        {
+            "strMeal": "Tacos Xuc Xich",
+            "strMealThumb": "image/Tacos/10.png",
+            "idMeal": "10"
+        },
+        {
+            "strMeal": "Tacos Bò Phô Mai",
+            "strMealThumb": "image/Tacos/11.png",
+            "idMeal": "11"
+        },
+        {
+            "strMeal": "Tacos Bò BBQ",
+            "strMealThumb": "image/Tacos/12.png",
+            "idMeal": "12"
+        },
+        {
+            "strMeal": "Hotdot Khoai Tay",
+            "strMealThumb": "image/Hotdot/13.png",
+            "idMeal": "13"
+        },
+        {
+            "strMeal": "Hotdot Gà",
+            "strMealThumb": "image/Hotdot/14.png",
+            "idMeal": "14"
+        },
+        {
+            "strMeal": "Hotdot Bim Bim",
+            "strMealThumb": "image/Hotdot/15.png",
+            "idMeal": "15"
+        },
+        {
+            "strMeal": "Hotdot Thit Xong Khoi",
+            "strMealThumb": "image/Hotdot/16.png",
+            "idMeal": "16"
+        },
+        {
+            "strMeal": "Hotdot Phô Mai",
+            "strMealThumb": "image/Hotdot/17.png",
+            "idMeal": "17"
+        },
+        {
+            "strMeal": "Hotdot Truyền Thống",
+            "strMealThumb": "image/Hotdot/18.png",
+            "idMeal": "18"
+        },
+        {
+            "strMeal": "HAMBURGER Thịt Bò",
+            "strMealThumb": "image/Hamburger/19.png",
+            "idMeal": "19"
+        },
+        {
+            "strMeal": "HAMBURGER Phô Mai",
+            "strMealThumb": "image/Hamburger/20.png",
+            "idMeal": "20"
+        },
+        {
+            "strMeal": "HAMBURGER Double",
+            "strMealThumb": "image/Hamburger/21.png",
+            "idMeal": "21"
+        },
+        {
+            "strMeal": "HAMBURGER Gà",
+            "strMealThumb": "image/Hamburger/22.png",
+            "idMeal": "22"
+        },
+        {
+            "strMeal": "HAMBURGER Hành Tây",
+            "strMealThumb": "image/Hamburger/23.png",
+            "idMeal": "23"
+        },
+        {
+            "strMeal": "HAMBURGER Đặc Biệt",
+            "strMealThumb": "image/Hamburger/24.png",
+            "idMeal": "24"
+        },
+        {
+            "strMeal": "KIMBAP Gà Cay",
+            "strMealThumb": "image/Kimbap/25.png",
+            "idMeal": "25"
+        },
+        {
+            "strMeal": "KIMBAP Gà Nướng",
+            "strMealThumb": "image/Kimbap/26.png",
+            "idMeal": "26"
+        },
+        {
+            "strMeal": "KIMBAP Thịt Heo",
+            "strMealThumb": "image/Kimbap/27.png",
+            "idMeal": "27"
+        },
+        {
+            "strMeal": "KIMBAP Thịt BBQ",
+            "strMealThumb": "image/Kimbap/28.png",
+            "idMeal": "28"
+        },
+        {
+            "strMeal": "KIMBAP Phô Mai",
+            "strMealThumb": "image/Kimbap/29.png",
+            "idMeal": "29"
+        },
+        {
+            "strMeal": "KIMBAP Chiên",
+            "strMealThumb": "image/Kimbap/30.png",
+            "idMeal": "30"
+        },
+        {
+            "strMeal": "Sữa Tươi Trân Châu Đường Đen",
+            "strMealThumb": "image/TraSua/31.png",
+            "idMeal": "31"
+        },
+        {
+            "strMeal": "Trà Sữa Nhài",
+            "strMealThumb": "image/TraSua/32.png",
+            "idMeal": "32"
+        },
+        {
+            "strMeal": "Trà Sữa Panda",
+            "strMealThumb": "image/TraSua/33.png",
+            "idMeal": "33"
+        },
+        {
+            "strMeal": "Trà Sữa Kim Cương Đen",
+            "strMealThumb": "image/TraSua/34.png",
+            "idMeal": "34"
+        },
+        {
+            "strMeal": "Trà Sữa Olong",
+            "strMealThumb": "image/TraSua/35.png",
+            "idMeal": "35"
+        },
+        {
+            "strMeal": "Trà Dâu Tằm Tuyết",
+            "strMealThumb": "image/TraSua/36.png",
+            "idMeal": "36"
+        },
+        {
+            "strMeal": "Trà Dứa",
+            "strMealThumb": "image/TraSua/37.png",
+            "idMeal": "37"
+        },
+        {
+            "strMeal": "Hồng Trà",
+            "strMealThumb": "image/TraSua/38.png",
+            "idMeal": "38"
+        },
+        {
+            "strMeal": "Olong Thái Cực",
+            "strMealThumb": "image/TraSua/39.png",
+            "idMeal": "39"
+        },
+        {
+            "strMeal": "Sữa Tươi Khổng Lồ",
+            "strMealThumb": "image/TraSua/40.png",
+            "idMeal": "40"
+        }
+        
+    ]
+}
